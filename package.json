@@ -1,0 +1,49 @@
+{
+  "name": "getraise-tech",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@fullpage/react-fullpage": "^0.1.48",
+    "@mui/icons-material": "^6.4.6",
+    "@mui/material": "^6.4.6",
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "@tailwindcss/vite": "^4.0.9",
+    "framer-motion": "^12.15.0",
+    "gsap": "^3.13.0",
+    "lucide-react": "^0.483.0",
+    "odometer": "^0.4.8",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-fullpage": "^0.1.19",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-odometerjs": "^3.1.3",
+    "react-router-dom": "^7.4.0",
+    "react-slick": "^0.30.3",
+    "react-toastify": "^11.0.5",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.2.6",
+    "tailwindcss": "^4.0.9",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "vite": "^6.2.0"
+  }
+}
